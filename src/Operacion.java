@@ -69,3 +69,4 @@ public class Operacion {
         return Math.sqrt(numero.getValor());
     }
 }
+
