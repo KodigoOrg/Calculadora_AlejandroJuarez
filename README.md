@@ -71,6 +71,6 @@ public double raizCuadrada(Numero numero) throws ArithmeticException {
     }
 
 # Autor
-Nombre: Alejandro Ernesto Juárez Argumedo
-LinkedIn: www.linkedin.com/in/alejandro-juárez01
+Nombre: Alejandro Ernesto Juárez Argumedo,
+LinkedIn: www.linkedin.com/in/alejandro-juárez01,
 GitHub: https://github.com/ajuarez011
