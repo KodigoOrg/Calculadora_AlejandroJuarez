@@ -69,3 +69,8 @@ public double raizCuadrada(Numero numero) throws ArithmeticException {
         }
         return Math.sqrt(numero.getValor());
     }
+
+# Autor
+Nombre: Alejandro Ernesto Juárez Argumedo
+LinkedIn: www.linkedin.com/in/alejandro-juárez01
+GitHub: https://github.com/ajuarez011
